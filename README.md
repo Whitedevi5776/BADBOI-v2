@@ -28,11 +28,40 @@ BADBOI-v2 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https:
 
 ### 1. <a href="https://github.com/BADBOI-v1/BADBOI-v2/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork BADBOI-v2" width="70"></a>
 ## `Generate Pair Code For Session`
-
+ 
 [`Badboi-v2 Pairing Using Render`](https://badboi.onrender.com/)
 
 [`Badboi-v2 Pairing using Replit`](https://replit.com/@samjame088/Xeon-PairCode-1)
-### 4. <a href="https://pylexnodes.net"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-black" alt="Click Here to Deploy on Panel" width="120"></a>
+### . <a href="https://pylexnodes.net"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-black" alt="Click Here to Deploy on Panel" width="120"></a>
+
+### . <a href="https://dashboard.toystack.ai/login"><img src="https://img.shields.io/badge/DEPLOY ON TOYSTACK AI -black" alt="Click Here to Deploy on TOYSTACK AI" width="120"></a>
+
+# Instalasi
+## Heroku Buildpack
+```bash
+heroku/nodejs
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+```
+*Add your Creds.json to Classic file
+* Create a new app at [Heroku](heroku.com)
+* Add Build packs
+* Connect your heroku with your github
+* Locate BADBOI-v2-BUG
+* Now deploy.
+* Start the Worker
+* Enjoy the Bot.
+  
+### 4. <a 
+#### DEPLOY TO RENDER
+
+ ★ Register To Render 
+    <br>
+<a href='https://dashboard.render.com/register' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
+
+★ Now Deploy
+    <br>
+<a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
 
 </br>
@@ -150,3 +179,6 @@ npm i -g forever && forever index.js && forever save && forever logs
 
 * [`📕 Emperordagoat..!!`](https://github.com/Emperordagoat)
 * * [`📕 Cod3Uchiha`](https://github.com/Cod3Uchiha)
+ 
+  * ⧉ 𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐓𝐇𝐄 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ⧉
+  * BADBOI HACKER IS ACTIVE 😂😂😂
